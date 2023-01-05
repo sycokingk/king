@@ -141,7 +141,7 @@ def riaz():
 	if riaz1 =='3':
 		os.system('xdg-open https://www.facebook.com/profile.php?id=100000878269998')
 	if riaz1 =='4':
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100000878269998()
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100000878269998')
 	if riaz1 =='2':
 		bangla()
 	else:
