@@ -127,7 +127,9 @@ def riaz():
 	print('[1] Pak Random Cloning menu')
 	print('[2] Bangladish Random Cloning')
 	print('[3] Create File dumping')
-	print('[4] Follow on Facebook If not Follow don't get ids')
+	print('[4] Follow Me on Facebook') 
+	
+	
 	
 	print('\x1b[1;91m[5] Exit Main menu')
 	print('\33[1;37m----------------------------------------------')
